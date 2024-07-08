@@ -8,6 +8,6 @@ Recursos
 Logo: ./assets/Logo.png
 Imagen de Muñeco: ./assets/Muñeco.png
 
-Proyecto Modulo 9 Entrega 
-William Bello G7-One
-(chile)
+**Proyecto Modulo 9 Entrega**
+**William Bello G7-One**
+  Santiago, Chile.
